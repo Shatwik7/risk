@@ -108,7 +108,7 @@ export default function LandingPage() {
               >
                 <div className="relative rounded-xl overflow-hidden shadow-2xl">
                   <img 
-                    src="https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                    src="https://i.pinimg.com/originals/a0/d4/16/a0d41629b9ade1749a96519ccc315db4.gif" 
                     alt="Business team analyzing risks" 
                     className="w-full h-auto"
                   />
@@ -232,7 +232,7 @@ export default function LandingPage() {
                 variants={fadeIn}
               >
                 <img 
-                  src="https://images.pexels.com/photos/3184306/pexels-photo-3184306.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                  src="https://i.gifer.com/75ez.gif" 
                   alt="Team collaborating on risk assessment" 
                   className="rounded-xl shadow-lg w-full h-auto"
                 />
